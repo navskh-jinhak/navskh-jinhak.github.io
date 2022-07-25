@@ -1,0 +1,74 @@
+{
+  "hash": "97951439",
+  "browserHash": "918d1d37",
+  "optimized": {
+    "@vue/devtools-api": {
+      "src": "../../../node_modules/@vue/devtools-api/lib/esm/index.js",
+      "file": "@vue_devtools-api.js",
+      "fileHash": "bfe8b45a",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "src": "../../../node_modules/@vuepress/shared/dist/index.js",
+      "file": "@vuepress_shared.js",
+      "fileHash": "85e06d05",
+      "needsInterop": false
+    },
+    "vue": {
+      "src": "../../../node_modules/vue/dist/vue.runtime.esm-bundler.js",
+      "file": "vue.js",
+      "fileHash": "fcc59719",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "src": "../../../node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "file": "vue-router.js",
+      "fileHash": "039f2cbe",
+      "needsInterop": false
+    },
+    "chart.js/auto": {
+      "src": "../../../node_modules/chart.js/auto/auto.esm.js",
+      "file": "chart_js_auto.js",
+      "fileHash": "73540825",
+      "needsInterop": false
+    },
+    "echarts": {
+      "src": "../../../node_modules/echarts/index.js",
+      "file": "echarts.js",
+      "fileHash": "cafbb04b",
+      "needsInterop": false
+    },
+    "flowchart.js": {
+      "src": "../../../node_modules/flowchart.js/index.js",
+      "file": "flowchart_js.js",
+      "fileHash": "7fd3559f",
+      "needsInterop": true
+    },
+    "mermaid": {
+      "src": "../../../node_modules/mermaid/dist/mermaid.esm.min.mjs",
+      "file": "mermaid.js",
+      "fileHash": "b3feb5c9",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "src": "../../../node_modules/@vueuse/core/index.mjs",
+      "file": "@vueuse_core.js",
+      "fileHash": "9cd777d7",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-X3M6ITL7": {
+      "file": "chunk-X3M6ITL7.js"
+    },
+    "chunk-YXMKYCLA": {
+      "file": "chunk-YXMKYCLA.js"
+    },
+    "chunk-IYMZ3XJG": {
+      "file": "chunk-IYMZ3XJG.js"
+    },
+    "chunk-DJCW3HVY": {
+      "file": "chunk-DJCW3HVY.js"
+    }
+  }
+}
