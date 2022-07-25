@@ -27,6 +27,24 @@ export const en = sidebar({
       ],
     },
     // {
+    //   text: "Typescript",
+    //   icon: "note",
+    //   prefix: "posts/Typescript/",
+    //   collapsable: true,
+    //   children: [
+    //     "TS 내용정리1",
+    //     "TS 내용정리2",
+    //     "Typescript(인프런)_by 성영훈",
+    //   ],
+    // },
+    {
+      text: "Vue",
+      icon: "note",
+      prefix: "posts/Vue/",
+      collapsable: true,
+      children: ["Vue강의정리", "Vuejs_3레벨_Reivew"],
+    },
+    // {
     //   text: "Articles",
     //   icon: "note",
     //   prefix: "posts/",
