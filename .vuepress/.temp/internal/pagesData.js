@@ -37,8 +37,6 @@ export const pagesData = {
   "v-71978c0a": () => import(/* webpackChunkName: "v-71978c0a" */"D:/vuepress-hope/.vuepress/.temp/pages/posts/jQuery/3장 jQuery로 페이지에 생명 불어넣기.html.js").then(({ data }) => data),
   // path: /posts/jQuery/4%EC%9E%A5%20%EC%9D%B4%EB%B2%A4%ED%8A%B8_%EB%AA%A8%EB%93%A0%20%EA%B2%83%EC%9D%98%20%EC%8B%9C%EC%9E%91.html
   "v-18558afe": () => import(/* webpackChunkName: "v-18558afe" */"D:/vuepress-hope/.vuepress/.temp/pages/posts/jQuery/4장 이벤트_모든 것의 시작.html.js").then(({ data }) => data),
-  // path: /posts/Typescript/TS%20%EB%82%B4%EC%9A%A9%EC%A0%95%EB%A6%AC2.html
-  "v-52df13ae": () => import(/* webpackChunkName: "v-52df13ae" */"D:/vuepress-hope/.vuepress/.temp/pages/posts/Typescript/TS 내용정리2.html.js").then(({ data }) => data),
   // path: /posts/Vue/Vuejs_3%EB%A0%88%EB%B2%A8_Reivew.html
   "v-73115d7a": () => import(/* webpackChunkName: "v-73115d7a" */"D:/vuepress-hope/.vuepress/.temp/pages/posts/Vue/Vuejs_3레벨_Reivew.html.js").then(({ data }) => data),
   // path: /posts/Vue/Vue%EA%B0%95%EC%9D%98%EC%A0%95%EB%A6%AC.html
@@ -85,24 +83,20 @@ export const pagesData = {
   "v-2dcc8639": () => import(/* webpackChunkName: "v-2dcc8639" */"D:/vuepress-hope/.vuepress/.temp/pages/category/jquery/index.html.js").then(({ data }) => data),
   // path: /tag/page-config/
   "v-26f8293d": () => import(/* webpackChunkName: "v-26f8293d" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/page-config/index.html.js").then(({ data }) => data),
-  // path: /category/typescript/
-  "v-6c5e4d32": () => import(/* webpackChunkName: "v-6c5e4d32" */"D:/vuepress-hope/.vuepress/.temp/pages/category/typescript/index.html.js").then(({ data }) => data),
-  // path: /tag/guide/
-  "v-30e296fe": () => import(/* webpackChunkName: "v-30e296fe" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/guide/index.html.js").then(({ data }) => data),
   // path: /category/vue/
   "v-65f6d381": () => import(/* webpackChunkName: "v-65f6d381" */"D:/vuepress-hope/.vuepress/.temp/pages/category/vue/index.html.js").then(({ data }) => data),
-  // path: /tag/teamleader-education/
-  "v-56cabb00": () => import(/* webpackChunkName: "v-56cabb00" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/teamleader-education/index.html.js").then(({ data }) => data),
+  // path: /tag/guide/
+  "v-30e296fe": () => import(/* webpackChunkName: "v-30e296fe" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/guide/index.html.js").then(({ data }) => data),
   // path: /category/review/
   "v-7ed81e82": () => import(/* webpackChunkName: "v-7ed81e82" */"D:/vuepress-hope/.vuepress/.temp/pages/category/review/index.html.js").then(({ data }) => data),
-  // path: /tag/pwa/
-  "v-b30840fa": () => import(/* webpackChunkName: "v-b30840fa" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/pwa/index.html.js").then(({ data }) => data),
+  // path: /tag/teamleader-education/
+  "v-56cabb00": () => import(/* webpackChunkName: "v-56cabb00" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/teamleader-education/index.html.js").then(({ data }) => data),
   // path: /zh/category/
   "v-fbb94a6e": () => import(/* webpackChunkName: "v-fbb94a6e" */"D:/vuepress-hope/.vuepress/.temp/pages/zh/category/index.html.js").then(({ data }) => data),
+  // path: /tag/pwa/
+  "v-b30840fa": () => import(/* webpackChunkName: "v-b30840fa" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/pwa/index.html.js").then(({ data }) => data),
   // path: /tag/jquery/
   "v-ba5e197a": () => import(/* webpackChunkName: "v-ba5e197a" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/jquery/index.html.js").then(({ data }) => data),
-  // path: /tag/typescript/
-  "v-801db588": () => import(/* webpackChunkName: "v-801db588" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/typescript/index.html.js").then(({ data }) => data),
   // path: /tag/review/
   "v-35985dc9": () => import(/* webpackChunkName: "v-35985dc9" */"D:/vuepress-hope/.vuepress/.temp/pages/tag/review/index.html.js").then(({ data }) => data),
   // path: /tag/vue/
